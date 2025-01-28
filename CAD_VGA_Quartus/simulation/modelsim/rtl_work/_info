@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/cad/CAD_VGA_Quartus/simulation/modelsim
+Ecad_vga_quartus
+w1735381464
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+8F:/cad/CAD_VGA_Quartus/CAD_VGA_Quartus.vhd
+FF:/cad/CAD_VGA_Quartus/CAD_VGA_Quartus.vhd
+l0
+L12
+V5VCebFNiY<ST4NnTem]d>1
+!s100 5VhVR7@YCdTQ?oB3m9`Gm2
+Z5 OV;C;10.5b;63
+31
+Z6 !s110 1735431916
+!i10b 1
+Z7 !s108 1735431916.000000
+!s90 -reportprogress|300|-93|-work|work|F:/cad/CAD_VGA_Quartus/CAD_VGA_Quartus.vhd|
+!s107 F:/cad/CAD_VGA_Quartus/CAD_VGA_Quartus.vhd|
+!i113 1
+Z8 o-93 -work work
+Z9 tExplicit 1 CvgOpt 0
+Pmazetypes
+R3
+R4
+w1735379868
+R0
+8F:/cad/CAD_VGA_Quartus/VGA/Types.vhd
+FF:/cad/CAD_VGA_Quartus/VGA/Types.vhd
+l0
+L4
+V:eQk8E45cce03Z_>AdblK2
+!s100 no09Pb31YLJWe^Q<@>fBa3
+R5
+31
+R6
+!i10b 1
+R7
+!s90 -reportprogress|300|-93|-work|work|F:/cad/CAD_VGA_Quartus/VGA/Types.vhd|
+!s107 F:/cad/CAD_VGA_Quartus/VGA/Types.vhd|
+!i113 1
+R8
+R9
+Evga_controller
+Z10 w1513280510
+R2
+R1
+R3
+R4
+R0
+Z11 8F:/cad/CAD_VGA_Quartus/VGA/VGA_controller.vhd
+Z12 FF:/cad/CAD_VGA_Quartus/VGA/VGA_controller.vhd
+l0
+L26
+V_YZ`?C`C:0PG7LHOUCmJX2
+!s100 `D3;CCA?9[z0gkd;RFgKM0
+R5
+31
+R6
+!i10b 1
+R7
+Z13 !s90 -reportprogress|300|-93|-work|work|F:/cad/CAD_VGA_Quartus/VGA/VGA_controller.vhd|
+Z14 !s107 F:/cad/CAD_VGA_Quartus/VGA/VGA_controller.vhd|
+!i113 1
+R8
+R9
+Abehavioral
+R2
+R1
+R3
+R4
+DEx4 work 14 vga_controller 0 22 _YZ`?C`C:0PG7LHOUCmJX2
+l59
+L40
+V<znY4Rn5[E3]LOXMWFF6[3
+!s100 N=i5fKAU5RUedd6f`=mFL1
+R5
+31
+R6
+!i10b 1
+R7
+R13
+R14
+!i113 1
+R8
+R9

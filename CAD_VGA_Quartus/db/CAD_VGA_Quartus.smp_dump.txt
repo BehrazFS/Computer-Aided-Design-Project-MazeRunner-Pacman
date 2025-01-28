@@ -1,0 +1,18 @@
+
+State Machine - |CAD_VGA_Quartus|Maze_Game:VGA_MG|MazeGen:UUT|mapState
+Name mapState.dummy mapState.END_GENERATE mapState.GENERATING mapState.NOT_INIT 
+mapState.NOT_INIT 0 0 0 0 
+mapState.GENERATING 0 0 1 1 
+mapState.END_GENERATE 0 1 0 1 
+mapState.dummy 1 0 0 1 
+
+State Machine - |CAD_VGA_Quartus|Maze_Game:VGA_MG|MyGameState
+Name MyGameState.OUTER_GAME MyGameState.LOSE_WITH_TIME MyGameState.LOSE_WITH_LIVE MyGameState.WIN MyGameState.REGENERATE MyGameState.WAIT_FOR_START MyGameState.PLAYING MyGameState.POTION_GEN 
+MyGameState.POTION_GEN 0 0 0 0 0 0 0 0 
+MyGameState.PLAYING 0 0 0 0 0 0 1 1 
+MyGameState.WAIT_FOR_START 0 0 0 0 0 1 0 1 
+MyGameState.REGENERATE 0 0 0 0 1 0 0 1 
+MyGameState.WIN 0 0 0 1 0 0 0 1 
+MyGameState.LOSE_WITH_LIVE 0 0 1 0 0 0 0 1 
+MyGameState.LOSE_WITH_TIME 0 1 0 0 0 0 0 1 
+MyGameState.OUTER_GAME 1 0 0 0 0 0 0 1 
