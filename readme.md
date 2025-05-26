@@ -21,7 +21,7 @@ you lose if:
 2.your health reaches 0
 3.you collide with the ghost 
 
-the potions : \n
+the potions : <br>
 '[!]' : speed up
 '[?]' : map regeneration (randomly generated using dfs)
 '[/]' : gives 9 seconds of hit immunity 
