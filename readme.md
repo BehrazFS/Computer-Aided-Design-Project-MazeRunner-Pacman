@@ -23,8 +23,11 @@ you lose if:
 
 the potions :
 '[!]' : speed up
+
 '[?]' : map regeneration (randomly generated using dfs)
+
 '[/]' : gives 9 seconds of hit immunity 
+
 '[+]' : reduces your size
 
 there is an easter-egg in game if you go straight up from starting position:)
