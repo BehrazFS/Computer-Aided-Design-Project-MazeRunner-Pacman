@@ -17,21 +17,14 @@ the SevenSegments show the remaining time (99 second total time to finish the ga
 you win by getting from the top left corner to the bottom right 
 
 you lose if:
-
 1.the timer runs out
-
 2.your health reaches 0
-
 3.you collide with the ghost 
 
-the potions :
-
+the potions : \n
 '[!]' : speed up
-
 '[?]' : map regeneration (randomly generated using dfs)
-
 '[/]' : gives 9 seconds of hit immunity 
-
 '[+]' : reduces your size
 
 there is an easter-egg in game if you go straight up from starting position:)
