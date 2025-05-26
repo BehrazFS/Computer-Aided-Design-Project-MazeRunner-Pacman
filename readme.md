@@ -1,5 +1,5 @@
 # Computer-Aided-Design-Project-MazeRunner-Pacman
-A game called MazeRunner (that turned into Pacman along the way:) ) implemented in VHDL as an assignment for Digital Systems Analysis & Design(Computer-Aided Design) course at the University of Guilan, 
+A game called MazeRunner (that turned into Pacman along the way:) ) implemented in VHDL as an assignment for Digital Systems Analysis & Design(Computer-Aided Design) course at the University of Guilan.<br>
 Instructor: Dr. Mahdi Aminian.
 
 The program was tested on Cyclone® V FPGA using Intel Quartus Prime.
