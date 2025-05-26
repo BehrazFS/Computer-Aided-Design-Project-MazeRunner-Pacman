@@ -30,6 +30,12 @@ the potions : <br>
 there is an easter-egg in game if you go straight up from starting position:)
 
 # Pictures:
-
+![Diagram](1.jpg)
+![Diagram](2.jpg)
+![Diagram](3.jpg)
+![Diagram](4.jpg)
+![Diagram](5.jpg)
+![Diagram](6.jpg)
+![Diagram](7.jpg)
 # Team members: 
 https://github.com/BehrazFS https://github.com/AhmadReza2003H404
