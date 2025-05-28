@@ -38,4 +38,5 @@ there is an easter-egg in game if you go straight up from starting position:)
 ![Diagram](6.jpg)
 ![Diagram](7.jpg)
 # Team members: 
-https://github.com/BehrazFS https://github.com/AhmadReza2003H404
+https://github.com/BehrazFS <br>
+https://github.com/AhmadReza2003H404
